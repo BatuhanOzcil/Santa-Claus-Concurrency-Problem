@@ -1,0 +1,5 @@
+.idea/
+cmake-build-debug/
+santa_claus
+*.out
+*.o
